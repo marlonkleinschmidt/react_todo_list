@@ -31,8 +31,8 @@ export default function PageComponents() {
           <Text variant="body-sm-bold" className="text-pink-base">
             Olá BC!
           </Text>
-          <Text className="text-green-base">Olá BC!</Text>
-          <Text variant="body-md-bold">Olá BC!</Text>
+          <Text className="text-green-base">OPA!</Text>
+          <Text variant="body-md-bold">EI!</Text>
           <Text variant={"body-sm-bold"}>Levar the dog passear!</Text>
         </div>
         <div className="flex gap-1">
