@@ -73,7 +73,7 @@ export default function PageComponents() {
         </div>
 
         <div>
-          <Card size="md">PayPal - Pix - Cartao</Card>
+          <Card size="md">PayPal - PIX - Cartao</Card>
         </div>
         <div className="space-y-2">
           <Skeleton className="h-6" />
